@@ -1,0 +1,2 @@
+# Graduation-Project
+A Mobile application that predicting the percentage of infection by covid-19 and Managing covid-19 cases traffic in hospitals by finding the nearest hospital that has a free bed with required medical devices. Doctors can monitoring the patient’s (BPM, SPO2, Body- Temperature) through the application using IOT device that connected to the patient account letting the doctor see the results and making decisions according to this results.
